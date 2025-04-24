@@ -59,7 +59,8 @@ button:hover {
 }
 
 .video-footer {
-  width: 120px;
+  width: 80px;
+  max-width: 20vw;
   height: auto;
   border-radius: 8px;
 }
